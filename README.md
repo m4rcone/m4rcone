@@ -1,5 +1,5 @@
 # Olá! 🤘
-Atualmente, estou em processo de transição de carreira para a área de tecnologia, na qual tenho grande interesse e formação acadêmica.
+Atualmente estou em processo de transição de carreira para a área de tecnologia, na qual tenho grande interesse e formação acadêmica.
 Estou estudando _front-end_ através das tecnologias HTML, CSS e JavaScript. 
 
 Sejam bem vindos!

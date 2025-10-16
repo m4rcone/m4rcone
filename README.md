@@ -5,7 +5,7 @@ Always learning, always coding...
 *Powered by JavaScript.*
 
 - 👨🏻‍💻 Full-Stack Developer at `[your_company_here]`.
-- 💭 `ping` me about development, job oportunities, networking.
+- 💭 `ping` me about development, job opportunities, networking.
 
 ```js
 const m4rcone = {

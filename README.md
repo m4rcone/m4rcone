@@ -9,7 +9,6 @@ Always learning, always coding...
 
 ```js
 const m4rcone = {
-  pronouns: ["he", "him"],
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
   mainTools: ["React", "Node.js", "Next.js", "Docker", "Git", "Jest", "TailwindCSS"],
   databases: ["PostgreSQL", "MongoDB"],

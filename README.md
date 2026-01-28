@@ -2,6 +2,6 @@
 
 Always learning, always coding...
 
-*Powered by JavaScript.*
+*Powered by TypeScript/Node.*
 
 - 💬 `ping` me about development, open-source, job opportunities and networking.

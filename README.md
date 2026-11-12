@@ -1,4 +1,4 @@
-## Hello there, I'm Marcone 👋
+## Hello there 👋
 
 Always learning, always coding... now with AI agents in the loop. 🤖
 
